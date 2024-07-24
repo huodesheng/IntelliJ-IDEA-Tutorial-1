@@ -1,9 +1,96 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" version="24.7.4">
   <diagram name="第 1 页" id="m1ia_lh6ist3Ak4RxGBl">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HaDwHZi4gyz_okqczziw-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=1;labelBorderColor=none;" edge="1" parent="1" source="HaDwHZi4gyz_okqczziw-1" target="HaDwHZi4gyz_okqczziw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-1" value="进群" style="rounded=0;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=1;labelBorderColor=none;" edge="1" parent="1" source="HaDwHZi4gyz_okqczziw-2" target="HaDwHZi4gyz_okqczziw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-2" value="看群公告" style="rounded=0;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=1;labelBorderColor=none;" edge="1" parent="1" source="HaDwHZi4gyz_okqczziw-3" target="HaDwHZi4gyz_okqczziw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=1;labelBorderColor=none;" edge="1" parent="1" source="HaDwHZi4gyz_okqczziw-3" target="HaDwHZi4gyz_okqczziw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-3" value="根据爬楼密码&lt;div&gt;了解历史纪录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=1;labelBorderColor=none;" edge="1" parent="1" target="HaDwHZi4gyz_okqczziw-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="461" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-14" value="无基础" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;labelBorderColor=none;" vertex="1" connectable="0" parent="HaDwHZi4gyz_okqczziw-10">
+          <mxGeometry x="0.3375" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;textShadow=1;labelBorderColor=none;" edge="1" parent="1" target="HaDwHZi4gyz_okqczziw-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="461" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-13" value="有基础" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;labelBorderColor=none;" vertex="1" connectable="0" parent="HaDwHZi4gyz_okqczziw-11">
+          <mxGeometry x="0.3733" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=1;labelBorderColor=none;" edge="1" parent="1" source="HaDwHZi4gyz_okqczziw-6" target="HaDwHZi4gyz_okqczziw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-6" value="有无公众号基础" style="whiteSpace=wrap;html=1;rounded=0;textShadow=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-8" value="注册公众号，定位，改资料，头像，设置文字模板" style="rounded=0;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="531" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;textShadow=1;labelBorderColor=none;" edge="1" parent="1" source="HaDwHZi4gyz_okqczziw-9" target="HaDwHZi4gyz_okqczziw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-9" value="找准赛道，每天看群内分享的对标" style="rounded=0;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="521" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=1;labelBorderColor=none;" edge="1" parent="1" source="HaDwHZi4gyz_okqczziw-15" target="HaDwHZi4gyz_okqczziw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-26" value="遇到问题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;labelBorderColor=none;" vertex="1" connectable="0" parent="HaDwHZi4gyz_okqczziw-25">
+          <mxGeometry x="-0.075" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-15" value="每天发问分析复盘" style="rounded=0;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="641" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;textShadow=1;labelBorderColor=none;" edge="1" parent="1" source="HaDwHZi4gyz_okqczziw-8" target="HaDwHZi4gyz_okqczziw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-22" value="学习小报童内知识" style="whiteSpace=wrap;html=1;rounded=0;textShadow=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-24" value="骚扰辰风" style="whiteSpace=wrap;html=1;rounded=0;textShadow=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="260" y="781" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-27" value="群内分享" style="rounded=0;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="470" y="781" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;textShadow=1;labelBorderColor=none;" edge="1" parent="1" source="HaDwHZi4gyz_okqczziw-15" target="HaDwHZi4gyz_okqczziw-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaDwHZi4gyz_okqczziw-29" value="拿到结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;labelBorderColor=none;" vertex="1" connectable="0" parent="HaDwHZi4gyz_okqczziw-28">
+          <mxGeometry x="-0.0178" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
